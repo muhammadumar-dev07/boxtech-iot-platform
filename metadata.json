@@ -1,0 +1,7 @@
+{
+  "name": "BoxTech IoT Platform",
+  "description": "Multi-site facility overview dashboard monitoring connected IoT sensor fleets, real-time telemetry, and active system alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
