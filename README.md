@@ -9,7 +9,8 @@ A multi-site facility monitoring dashboard for the BoxTech IoT Platform — real
 ![Recharts](https://img.shields.io/badge/Recharts-Charts-8884d8)
 ![Status](https://img.shields.io/badge/Status-Frontend_Only-lightgrey)
 
-**🔗 Live preview:** _[add deployed URL]_
+**🔗 Live preview:** _[(https://boxtech-iot-platform.vercel.app/)]_
+
 **📦 Repo:** _[(https://github.com/muhammadumar-dev07/boxtech-iot-platform.git)]_
 
 ---
